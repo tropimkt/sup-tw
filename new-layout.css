@@ -1,3 +1,5 @@
+/* Inicio do Novo Código */
+
 .navbar .nav li a, .navbar .icon-private-w {
     color: #000000 !important;
 }
@@ -49,6 +51,8 @@ body {
     right: -1px !important;
 }
 
+/*Fim do novo código */
+
 /*#category-134 h3:before {
     font-family: "Font Awesome 5 Pro";
     content: "\f927";
@@ -75,23 +79,25 @@ body {
     margin: 0 0 10px;
 }
 
-    .category-list .category h3:before {
-        content: " ";
-        display: block;
-        height: 130px;
-        margin: 0 0 20px;
-        background: #EDEDED;
-        border-radius: 3px 3px 0 0;
-    }
-
-
 
 .collection-category .category-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: flex-start;
+    .category-list .category {
+    background-color: #fff;
+    background-position: top 20px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 100px auto !important;
+    box-shadow: 0 7px 4px -5px rgb(0 0 0 / 5%);
+    box-sizing: border-box;
+    min-height: 183px;
+    padding: 120px 20px 15px;
+    position: relative;
+    transition: all 0.2s;
 }
+   
 
 .collection-category h2 {
     text-align: center;
