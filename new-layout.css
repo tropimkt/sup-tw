@@ -1,0 +1,180 @@
+.navbar .nav li a, .navbar .icon-private-w {
+    color: #000000 !important;
+}
+
+.navbar-inner {
+    background: #ffffff !important;
+}
+
+a.brand {
+    width: 180px !important;
+}
+
+#docsSearch {
+    background: #90a529 !important;
+    background-image: url(https://tradingworks.com.br/wp-content/uploads/2020/11/waves.png) !important;
+    background-position: left !important;
+    background-repeat: no-repeat !important;
+    background-size: auto !important;
+    background-position-x: -300px !important;
+    background-position-y: center !important;
+    color: #ffffff !important;
+}
+
+body {
+    font-family: Roboto;
+}
+.articleFoot time.lu {
+    display: none;
+}
+
+#searchBar .search-query {
+    background: #ffffff !important;
+    border-color: #90a529 !important;
+    box-shadow: none !important;
+    color: #777 !important;
+    width: 80% !important;
+}
+
+#searchBar button {
+    background: #E7981D !important;
+    border-radius: 0px 30px 30px 0px !important;
+    color: #fff !important;
+    border: 1px solid #e7981d !important;
+    font-size: 18px !important;
+    padding: 0 1.5em !important;
+    height: 50px !important;
+    position: absolute !important;
+    top: 24px !important;
+    right: -1px !important;
+}
+
+/*#category-134 h3:before {
+    font-family: "Font Awesome 5 Pro";
+    content: "\f927";
+    font-weight: 900;
+    font-size: 50px;
+}
+
+#category-135 h3:before {
+    background: url('https://twpublicstorage.blob.core.windows.net/info/kb/helpscout/topic-video.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#category-138 h3:before {
+    background: url('https://twpublicstorage.blob.core.windows.net/info/kb/helpscout/topic-training.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}*/
+
+
+
+.category-list .category h3 {
+    color: #161B1E;
+    margin: 0 0 10px;
+}
+
+    .category-list .category h3:before {
+        content: " ";
+        display: block;
+        height: 130px;
+        margin: 0 0 20px;
+        background: #EDEDED;
+        border-radius: 3px 3px 0 0;
+    }
+
+
+
+.collection-category .category-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+
+.collection-category h2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    padding: 0;
+    margin: 0 0 30px;
+}
+
+/* 
+
+    **********************************************************
+    Contorno para mostrar as cores do TW no help
+
+*/
+
+.tw-badge-blue {
+    background-color: #428bca !important;
+}
+
+.tw-badge-green {
+    background-color: #8fa61d !important;
+}
+
+.tw-badge-light-green {
+    background-color: #CDDC39 !important;
+}
+
+.tw-badge-red {
+    background-color: #DC143C !important;
+}
+
+.tw-badge-orange {
+    background-color: #FF9933 !important;
+}
+
+.tw-badge-gray {
+    background-color: #999 !important;
+}
+
+.tw-color-white {
+    color: White !important;
+}
+
+.tw-color-blue {
+    color: #428bca !important;
+}
+
+.tw-color-green {
+    color: #8fa61d !important;
+}
+
+.tw-color-red {
+    color: #DC143C !important;
+}
+
+.tw-color-orange {
+    color: #FF9933 !important;
+}
+
+.tw-color-orange-dark {
+    color: #ce9239 !important;
+}
+
+
+
+.tw-color-gray {
+    color: #999 !important;
+}
+
+.tw-color-black {
+    color: #000 !important;
+}
+
+
+.tw-color-lightgray {
+    color: #f5f0f0 !important;
+}
+
+.tw-bg-color-lightgray {
+    background-color: #f5f0f0 !important;
+}
+
+.tw-bg-color-white {
+    background-color: white !important;
+}
